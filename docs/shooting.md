@@ -1,0 +1,5 @@
+## East York Tyke Blue 2019 Shooting Challenge
+
+Below is the current data for the shooting challenge  
+Let us know if you have updated numbers  
+Encourage the children to check for updates and compete
