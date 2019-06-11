@@ -1,3 +1,8 @@
+---
+theme: jekyll-theme-minimal
+---
+
+
 ## East York Tyke Blue 2019 Shooting Challenge
 
 Below is the current data for the shooting challenge  
