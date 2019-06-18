@@ -12,7 +12,7 @@ Encourage the children to check for updates and compete
 
 | Name     | Month | Shot Total |
 |:--------:|:-----:|:----------:|
-| Aiden    | June  | 152        |
+| Aidan    | June  | 152        |
 | Arthur   | June  | 0       |
 | Brodie   | June  | 0        |
 | Campbell     | June  | 0        |
