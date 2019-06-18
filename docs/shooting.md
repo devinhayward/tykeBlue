@@ -24,4 +24,4 @@ Encourage the children to check for updates and compete
 | Lewis     | June  | 0        |
 | Reid     | June  | 0        |
 | Rowan     | June  | 0        |
-| Ryan     | June  | 0        |
+| Ryan     | June  | 125        |
