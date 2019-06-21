@@ -14,7 +14,7 @@ Encourage the children to check for updates and compete
 |:--------:|:-----:|:----------:|
 | Aidan    | June  | 152        |
 | Arthur   | June  | 0       |
-| Brodie   | June  | 0        |
+| Brodie   | June  | 350        |
 | Campbell     | June  | 0        |
 | Declan     | June  | 0        |
 | Dionisi     | June  | 0        |
