@@ -20,7 +20,7 @@ Encourage the children to check for updates and compete
 | Dionisi     | June  | 0        |
 | Elliot     | June  | 273        |
 | Harrison     | June  | 0        |
-| Jonathan     | June  | 1030        |
+| Jonathan     | June  | 1150        |
 | Lewis     | June  | 0        |
 | Reid     | June  | 0        |
 | Rowan     | June  | 0        |
