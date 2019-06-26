@@ -12,7 +12,7 @@ Encourage the children to check for updates and compete
 
 | Name     | Month | Shot Total |
 |:--------:|:-----:|:----------:|
-| Aidan    | June  | 152        |
+| Aidan    | June  | 308        |
 | Arthur   | June  | 150       |
 | Brodie   | June  | 350        |
 | Campbell     | June  | 0        |
@@ -20,8 +20,8 @@ Encourage the children to check for updates and compete
 | Dionisi     | June  | 0        |
 | Elliot     | June  | 168        |
 | Harrison     | June  | 0        |
-| Jonathan     | June  | 830        |
+| Jonathan     | June  | 1030        |
 | Lewis     | June  | 0        |
 | Reid     | June  | 0        |
 | Rowan     | June  | 0        |
-| Ryan     | June  | 125        |
+| Ryan     | June  | 245        |
