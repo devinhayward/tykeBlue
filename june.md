@@ -21,7 +21,7 @@ Check the other pages for July, August & September totals
 | Dionisi  | June  | 0          |
 | Elliot   | June  | 273        |
 | Harrison | June  | 107        |
-| Jonathan | June  | 1750       |
+| Jonathan | June  | 1650       |
 | Lewis    | June  | 0          |
 | Reid     | June  | 0          |
 | Rowan    | June  | 0          |
