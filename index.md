@@ -14,6 +14,7 @@ and we will update the website.
 ### Current Data Table Link
     
 [Link to Shooting Challenge Stats - June](./june.html)  
+[Link to Shooting Challenge Stats - July](./july.html)
 
 ### Video Shooting Links
     
