@@ -19,7 +19,7 @@ Check the other pages for July, August & September totals
 | Campbell | July  | 0       |
 | Declan   | July  | 0          |
 | Dionisi  | July  | 0          |
-| Elliot   | July  | 50      |
+| Elliot   | July  | 120      |
 | Harrison | July  | 0        |
 | Jonathan | July  | 100       |
 | Lewis    | July  | 0          |
