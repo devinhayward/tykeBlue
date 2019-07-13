@@ -24,7 +24,7 @@ Check the other pages for July, August & September totals
 | Jonathan | July  | 460       |
 | Lewis    | July  | 0          |
 | Reid     | July  | 270        |
-| Rowan    | July  | 0          |
+| Rowan    | July  | 500          |
 | Ryan     | July  | 0        |
 
 [Back](./)  
