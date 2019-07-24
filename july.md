@@ -17,7 +17,7 @@ Check the other pages for July, August & September totals
 | Arthur   | July  | 50        |
 | Brodie   | July  | 200      |
 | Campbell | July  | 0       |
-| Declan   | July  | 0          |
+| Declan   | July  | 600          |
 | Dionisi  | July  | 0          |
 | Elliot   | July  | 245      |
 | Harrison | July  | 0        |
