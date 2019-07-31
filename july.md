@@ -25,7 +25,7 @@ Check the other pages for July, August & September totals
 | Lewis    | July  | 0          |
 | Reid     | July  | 270        |
 | Rowan    | July  | 500          |
-| Ryan     | July  | 200        |
+| Ryan     | July  | 410        |
 
 [Back](./)  
 [June Stats](./june.html) -> [August Stats](./aug.html)
