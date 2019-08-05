@@ -13,19 +13,19 @@ Check the other pages for July, August & September totals
 
 | Name     | Month | Shot Total |
 |:--------:|:-----:|:----------:|
-| Aidan    | July  | 0        |
-| Arthur   | July  | 0        |
-| Brodie   | July  | 0      |
-| Campbell | July  | 0       |
-| Declan   | July  | 0          |
-| Dionisi  | July  | 0          |
-| Elliot   | July  | 0      |
-| Harrison | July  | 0        |
-| Jonathan | July  | 0       |
-| Lewis    | July  | 0          |
-| Reid     | July  | 0          |
-| Rowan    | July  | 0          |
-| Ryan     | July  | 0        |
+| Aidan    | August  | 0        |
+| Arthur   | August  | 0        |
+| Brodie   | August  | 0      |
+| Campbell | August  | 0       |
+| Declan   | August  | 0          |
+| Dionisi  | August  | 0          |
+| Elliot   | August  | 0      |
+| Harrison | August  | 0        |
+| Jonathan | August  | 100       |
+| Lewis    | August  | 0          |
+| Reid     | August  | 0          |
+| Rowan    | August  | 0          |
+| Ryan     | August  | 0        |
 
 [Back](./)  
 [June Stats](./june.html) -> [July Stats](./july.html)
