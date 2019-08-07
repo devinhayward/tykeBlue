@@ -13,7 +13,7 @@ Check the other pages for July, August & September totals
 
 | Name     | Month | Shot Total |
 |:--------:|:-----:|:----------:|
-| Aidan    | August  | 0        |
+| Aidan    | August  | 120        |
 | Arthur   | August  | 0        |
 | Brodie   | August  | 0      |
 | Campbell | August  | 0       |
