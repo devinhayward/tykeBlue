@@ -21,7 +21,7 @@ Check the other pages for July, August & September totals
 | Dionisi  | August  | 0          |
 | Elliot   | August  | 70      |
 | Harrison | August  | 0        |
-| Jonathan | August  | 450       |
+| Jonathan | August  | 500       |
 | Lewis    | August  | 0          |
 | Reid     | August  | 0          |
 | Rowan    | August  | 0          |
