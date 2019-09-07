@@ -15,7 +15,7 @@ and we will update the website.
     
 [Link to Shooting Challenge Stats - June](./june.html)  
 [Link to Shooting Challenge Stats - July](./july.html)  
-[Link to Shooting Challenge Stats - August](./aug.html)
+[Link to Shooting Challenge Stats - August](./aug.html)  
 [Link to Total Stats](./total.html)
 
 ### Video Shooting Links
