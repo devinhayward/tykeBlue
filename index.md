@@ -2,6 +2,11 @@
 layout: default
 ---
 
+## State Of The Union 2019
+
+[State Of The Union 2019](./stateOfU2019.html)  
+
+
 ## East York Tyke Blue 2019 Shooting Challenge
     
 Welcome to the East York Tyke Blue 2019 Shooting Challenge.  
