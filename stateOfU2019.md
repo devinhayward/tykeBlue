@@ -17,10 +17,7 @@ We started off with a great preseason, playing Thornhill Blue, West Mall and the
 
 We started the NYHL Fall Season off great. The first 2 games against HV White and Duffield White showed that we were a step ahead. Then better against West Mall, but they are still a step ahead. A tight loss against Faustina Black and then two dead locked games against Thornhill Red; definitely the closest match in skill to us thus far.
 
-West Hill showed they are shooting for top of the top, at all costs 👎; and West Mall was  
-still just a little too tough for us; their goalie making it ever more difficult. But I think  
-those challenging games make the boys a little more prepared for the next challenge. Fighting  
-through those hard games is not easy, and now they know that.
+West Hill showed they are shooting for top of the top, at all costs 👎; and West Mall was still just a little too tough for us; their goalie making it ever more difficult. But I think those challenging games make the boys a little more prepared for the next challenge. Fighting through those hard games is not easy, and now they know that.
 
 There was another game against Vaughan Red in there and we were a step ahead on that day.   
 
@@ -52,8 +49,7 @@ Into the winter season the following changes are coming which you should underst
 	- Vaughan Red (whom we know from Fall Season)
 	- Thornhill Red (whom we know from Fall Season)
 	- Faustina Black (whom we know from Fall Season)
-- Probably a game ++ with each of those teams and then playoffs. This will be a home & home
-against one of our division rivals. 
+- Probably a game ++ with each of those teams and then playoffs. This will be a home & home against one of our division rivals. 
 
 From here we have tryouts for the U7 2020/2021 teams.
 
