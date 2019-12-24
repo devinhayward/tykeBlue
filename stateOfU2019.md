@@ -3,9 +3,9 @@ layout: default
 title: 2019 State Of The Union
 ---
 
-###Tyke Blue 2019 State of the Union 😜
+### Tyke Blue 2019 State of the Union 😜
 
-##Tyke Blue 2019
+## Tyke Blue 2019
 
 Let me start by saying thanks to all of you for everything thus far. All the parental help  
 getting the kids out to games/practices, all the coaching help from my assistant team,  
@@ -19,13 +19,13 @@ blessed to have the opportunity to work with such a great group of kids. They ma
 better, and I hope they are also feeling positive about the relationship. They still smile  
 at me, so I'm doing something right I guess 👍
 
-#Recap
+# Recap
 
 We started off with a great preseason, playing Thornhill Blue, West Mall and then finally  
 Humber Valley White. The boys had fun, and it was a great way to work out all of the kinks.  
 We also learned what it was going to be like playing West Mall!
 
-Wse started the NYHL Fall Season off great. The first 2 games against HV White and Duffield  
+We started the NYHL Fall Season off great. The first 2 games against HV White and Duffield  
 White showed that we were a step ahead. Then better against West Mall, but they are still  
 a step ahead. A tight loss against Faustina Black and then two dead locked games against  
 Thornhill Red; definitely the closest match in skill to us thus far.
@@ -37,10 +37,9 @@ through those hard games is not easy, and now they know that.
 
 There was another game against Vaughan Red in there and we were a step ahead on that day.   
 
-
 So all in all a great 10 games, and a middle of the pack finish. Well done 👍
 
-##Tyke Blue Growth
+## Tyke Blue Growth
 I think the boys are growing well and getting better for the following reasons:
 
 - Their positioning on the ice is better; a little less puck chasing
@@ -62,7 +61,7 @@ remainder of the season:
 - Hopefully earning our share of wins for the remainder of games/playoffs; having FUN!
 
 
-##Tyke Blue 2020
+## Tyke Blue 2020
 Into the winter season the following changes are coming which you should understand:
 
 - We have been placed into Tier 2, Group B with;
@@ -75,7 +74,7 @@ against one of our division rivals.
 
 From here we have tryouts for the U7 2020/2021 teams.
 
-##U7 2020/2021
+## U7 2020/2021
 2020/2021 season things you need to know:
 
 - The divisions will be renamed according to age -> as seen in soccer: U9(Novice), U11(Atom)
@@ -83,7 +82,7 @@ From here we have tryouts for the U7 2020/2021 teams.
 
 See the very recent release on the changes from the [OMHA](https://www.omha.net/news_article/show/1073503)
 
-##Wrap Up
+## Wrap Up
 So there are big changes coming next season that I’m sure everyone will have questions about. But we will  
 endeavour to improve and get better every day with our remaining time together this season. Any questions let  
 me know and Happy Holidays to Everyone!
