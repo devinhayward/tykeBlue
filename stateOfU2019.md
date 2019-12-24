@@ -3,7 +3,7 @@ layout: default
 title: 2019 State Of The Union
 ---
 
-# Tyke Blue 2019 State of the Union 😜
+# 2019 State of the Union 😜
 
 ## Tyke Blue 2019
 
