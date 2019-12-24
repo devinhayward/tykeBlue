@@ -7,10 +7,7 @@ title: 2019 State Of The Union
 
 ## Tyke Blue 2019
 
-Let me start by saying thanks to all of you for everything thus far. All the parental help  
-getting the kids out to games/practices, all the coaching help from my assistant team,  
-and the managerial help from Chris. It takes a village! Been great so far and I am looking  
-forward to the second half.
+Let me start by saying thanks to all of you for everything thus far. All the parental help getting the kids out to games/practices, all the coaching help from my assistant team, and the managerial help from Chris. It takes a village! Been great so far and I am looking forward to the second half.
 
 Being a rookie head coach coming into the season, I had my worries about the unknowns,  
 and how everything was going to work out, but it has been great. We all have grown and  
