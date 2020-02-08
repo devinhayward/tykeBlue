@@ -1,7 +1,6 @@
 ## Bulldogs Final Push/Update
 
-So as we move into February and the end of the season push, I wanted to write a blog to lay out  
-all of the information.
+So as we move into February and the end of the season push, I wanted to write a blog to lay out all of the information.
 
 ### NYHL Winter Season Close Out/Playoffs
 
@@ -10,9 +9,7 @@ We close out our winter season with three more games:
 - Tuesday Feb_18 vs Thornhill Red
 - Sunday Feb_23 vs Don Mills
 
-We then begin the playoffs, games TBD. Playoffs consist of a round robin format first, playing  
-each of the teams in Group B once. The top two teams in our group will advance to the next round  
-The knockout round consists of:
+We then begin the playoffs, games TBD. Playoffs consist of a round robin format first, playing each of the teams in Group B once. The top two teams in our group will advance to the next round. The knockout round consists of:
 
 - Group A - 1st vs Group B - 2nd; 3 game series; first to 4 points
 - Group B - 1st vs Group A - 2nd; 3 game series; first to 4 points
