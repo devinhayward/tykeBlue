@@ -5,7 +5,7 @@ title: Playoff Update 2020
 
 ## Bulldogs Playoff Update 2020
 
-So as we move into February and the end of the season push, I wanted to write a blog to lay out all of the information.
+As we move into February, and the end of the season push, I wanted to write a blog to lay out all of the information.
 
 ### NYHL Winter Season Close Out/Playoffs
 
@@ -27,10 +27,8 @@ This will close out our season.
 
 At the conclusion of our playoff run, and the completion of House League and Little Stanley Cup Day at EY, you will have your spring and summer to relax and play other sports. The ramp up for next season will begin in August. The Hockey Canada pathways extend to U11 Atom starting next season so our Boys move to the GTHL in 2022 will be under the U11 Pathway. The details for the U8 pathway are below:
 
-- 4 practice/skill sessions will be offered at the end of August and first week of school  
-following Labour Day
-- 3 formal evaluation/tiering sessions will follow the 2nd week of school to properly evaluate  
-and tier the boys into a U8 Blue & U8 Gold teams
+- 4 practice/skill sessions will be offered at the end of August and first week of school following Labour Day
+- 3 formal evaluation/tiering sessions will follow the 2nd week of school to properly evaluate and tier the boys into a U8 Blue & U8 Gold teams
 - evaluations will consist of 1 skills session; 1 small area games session; 1 game
 - fair & equal ice time; players play all positions; no full time goalies
 - we will move from cross ice games to half ice games 4 on 4
