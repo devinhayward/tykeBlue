@@ -3,7 +3,7 @@ layout: default
 title: Playoff Update 2020
 ---
 
-## Bulldogs Final Push/Update
+## Bulldogs Playoff Update 2020
 
 So as we move into February and the end of the season push, I wanted to write a blog to lay out all of the information.
 
