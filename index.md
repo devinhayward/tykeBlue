@@ -2,6 +2,10 @@
 layout: default
 ---
 
+## Playoff Update 2020
+
+[Playoff Update 2020](./PlayoffUpdate.html)  
+
 ## State Of The Union 2019
 
 [State Of The Union 2019](./stateOfU2019.html)  
