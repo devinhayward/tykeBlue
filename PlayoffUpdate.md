@@ -1,9 +1,9 @@
-### Bulldogs Final Push/Update
+## Bulldogs Final Push/Update
 
 So as we move into February and the end of the season push, I wanted to write a blog to lay out  
 all of the information.
 
-## NYHL Winter Season Close Out/Playoffs
+### NYHL Winter Season Close Out/Playoffs
 
 We close out our winter season with three more games:
 - Tomorrow vs Faustina Black
@@ -21,7 +21,7 @@ Finals are the winners of the semis, 3 game series; first to 4 points.
 
 This will close out our season.
 
-## U8 Minor Novice 2020/2021
+### U8 Minor Novice 2020/2021
 
 At the conclusion of our playoff run, and the completion of House League and Little Stanley  
 Cup Day at EY, you will have your spring and summer to relax and play other sports. The ramp  
@@ -37,7 +37,7 @@ and tier the boys into a U8 Blue & U8 Gold teams
 - fair & equal ice time; players play all positions; no full time goalies
 - we will move from cross ice games to half ice games 4 on 4
 
-## Final Thoughts
+### Final Thoughts
 
 The extension of the Hockey Canada pathway in the U11 division this season is a drastic change  
 for the GTHL, and will guarantee that our boys are protected from ourselves! They will be allowed  
